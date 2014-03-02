@@ -90,7 +90,7 @@ class pyrow:
 
 		return monitor
 	
-	
+
 	def getForcePlot(this):
 		#Returns force plot data and stroke state
 		
